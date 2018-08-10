@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D Shooter",
+"dataUrl": "Swedish Pagans.data.unityweb",
+"wasmCodeUrl": "Swedish Pagans.wasm.code.unityweb",
+"wasmFrameworkUrl": "Swedish Pagans.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
